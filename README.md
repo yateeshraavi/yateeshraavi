@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yateeshraavi
-- 👀 I’m interested in ...Devops
-- 🌱 I’m currently learning ...AWS&GCP
+- 👀 I’m interested in ...SAP
+- 🌱 I’m currently learning ...SAP CPI
 - 💞️ I’m looking to collaborate on ...everything
 - 📫 How to reach me ...+918688916867
 
